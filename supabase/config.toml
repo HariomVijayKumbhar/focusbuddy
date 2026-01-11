@@ -1,0 +1,7 @@
+project_id = "fukxhinspnrlbiryaccy"
+
+[api]
+enabled = true
+
+[functions.focusbuddy-chat]
+verify_jwt = false
